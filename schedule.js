@@ -80,3 +80,4 @@ function nextCalendar() {
     document.querySelector(".month ul .title").innerHTML = months[nextMonth];
 }
 
+ 
